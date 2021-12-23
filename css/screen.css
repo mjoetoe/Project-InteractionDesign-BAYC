@@ -1004,6 +1004,15 @@ font-weight: 600;
         --card__footer-borderColor: var(--global-color-neutral-xxxx-dark);
     }
 
+    .c-landingspage-subtitle{
+        background-color: #232226;
+        padding-top: 12px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-bottom: 16px;
+        box-shadow: 7px 7px 9px -2px rgb(0 0 0 / 31%);
+        border-radius: 3px;
+    }
     
 }
 
