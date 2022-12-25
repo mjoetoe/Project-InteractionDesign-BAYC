@@ -1,14 +1,14 @@
-#Bored Ape Yacht Club NFT Collection
+# Bored Ape Yacht Club NFT Collection
 Welcome to the Bored Ape Yacht Club NFT Collection website! This website was created as a school project, with the primary focus being the integration of a random API. It allows you to browse and discover the unique and one-of-a-kind NFTs in our collection.
 
-##Features
+## Features
 Browse the entire Bored Ape Yacht Club NFT Collection
 View a random NFT from the collection by clicking the "Random NFT" button
 Get detailed information about each NFT, including the artist, edition size, and more
 Technologies Used
 This website was built using HTML and CSS, with the integration of a random API.
 
-##Future Plans
+## Future Plans
 We are constantly adding new NFTs to the collection, so be sure to check back often for updates. We also have plans to add additional features to the website in the future, such as the ability to purchase NFTs directly from the site.
 
 Thank you for visiting the Bored Ape Yacht Club NFT Collection website. We hope you enjoy exploring our unique and one-of-a-kind NFTs!
